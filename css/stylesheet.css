@@ -1,0 +1,105 @@
+/* 1 */
+
+body{
+background-color: #fdf6e3;
+}
+
+
+
+/* 2 */
+
+header{
+    font-size: 2em;
+}
+ footer{
+     font-size: 2em;
+ }
+
+
+
+/* 3 */
+
+nav ul{
+    font-family: sans-serif;
+}
+
+
+/* 4 */
+
+#logo{
+    border: 2px solid #d04b16;
+}
+
+
+/* 5 */
+
+.wrapper{
+    background-color: #eee8d5;
+    
+}
+
+/* 6 */
+
+#contents, #favs, #facts, #types{
+     color: #93a1a1;
+}
+
+
+/* 7 */
+
+.wrapper > .dfn{
+    background-color: #b58900;
+}
+
+/* 8 */
+
+p + strong:nth-child(0n+2){
+    color: #fff;
+}
+
+
+/* 9 */
+
+mark{
+    background-color: #719e07;
+}
+
+
+/* 10 */
+
+[rel="external"]{
+    background-color: #2694d8;
+}
+
+/* 11 */
+
+ol li:first-of-type{
+    color: #719e47;
+}
+
+/* 12 */
+
+ol li+li+li{
+    color: #2aa198;
+}
+
+/* 13 */
+
+.types > li:nth-child(odd){
+    background-color: #657ba3;
+}
+
+/* 14 */
+
+.types > li:nth-child(even){
+    background-color: #586e75;
+}
+
+/* 15 */
+
+.types > li:nth-child(3n){
+    background-color: #d04b16;
+}
+ 
+
+    
